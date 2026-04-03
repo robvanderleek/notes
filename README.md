@@ -1,5 +1,7 @@
 # My Notes
 
+- [FabricJS 7 + React + TypeScript + Vite](notes/1)\
+  April 3, 2026
 - [Setting up Basic Auth in FastAPI for endpoints and static files](@gist/robvanderleek/ab7a2d090d94e785b702b7ef86c7bac4)\
   August 20, 2024
 - [Reading raw body content on Vercel](@gist/robvanderleek/e5a83e4b676b20c376917f499bae8954)\
