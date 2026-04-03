@@ -1,6 +1,6 @@
 # My Notes
 
-- [FabricJS 7 + React + TypeScript + Vite](notes/1)\
+- [FabricJS 7 + React + TypeScript + Vite](notes/1/README.md)\
   April 3, 2026
 - [Setting up Basic Auth in FastAPI for endpoints and static files](@gist/robvanderleek/ab7a2d090d94e785b702b7ef86c7bac4)\
   August 20, 2024
