@@ -1,4 +1,4 @@
-# My Notes
+# Rob van der Leek's Notes
 
 - [FabricJS 7 + React + TypeScript + Vite](notes/1/README.md)\
   April 3, 2026
